@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Pant</h1>
 
 
-- 🔭 I’m currently working on **Web Developement**
+- 🔭 I’m currently learning about **Artificial Intelligence and Machine Learning**
 
 - 💬 Ask me about **C,C++ and SQL**
 
