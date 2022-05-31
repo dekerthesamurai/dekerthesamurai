@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
-[- 📝 I occasionally write articles on [https://dev.to/dekerthesamurai](https://dev.to/dekerthesamurai)]
+[] : <- 📝 I occasionally write articles on [https://dev.to/dekerthesamurai](https://dev.to/dekerthesamurai)>
 
 - ⚡ Fun fact **I like to Play Piano & Guitar**
 
