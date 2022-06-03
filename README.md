@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
-- ⚡ Fun fact **I Love Music and often Play Piano & Guitar**
+- ⚡ Fun fact **I Love Singing, Playing Piano & Guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
