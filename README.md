@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dekerthesamurai&label=Profile%20views&color=0e75b6&style=flat" alt="dekerthesamurai" /> </p>
 
-- 🔭 I’m currently working on **YoloV4**
+- 🔭 I’m currently working on **Book Recommendation App**
 
 - 🌱 I’m currently learning **Keras ,tflite and scikitlearn**
 
