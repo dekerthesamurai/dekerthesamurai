@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dekerthesamurai&label=Profile%20views&color=0e75b6&style=flat" alt="dekerthesamurai" /> </p>
 
-- 🔭 I’m currently working on **Book Recommendation App**
+- 🔭 I’m currently working on **Prescription Label Reading**
 
-- 🌱 I’m currently learning **Keras ,tflite and scikitlearn**
+- 🌱 I’m currently learning **React and Express Framework**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - ⚡ Fun fact **I Love Singing, Playing Piano & Guitar**
 
