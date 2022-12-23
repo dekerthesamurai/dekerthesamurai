@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 📝 I occasionally write articles on [https://dev.to/dekerthesamurai](https://dev.to/dekerthesamurai)
+<!-- - 📝 I occasionally write articles on [https://dev.to/dekerthesamurai](https://dev.to/dekerthesamurai) -->
 
 - 📫 How to reach me **deker27072002@gmail.com**
 
