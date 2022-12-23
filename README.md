@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/72698501/209368405-90a06539-7c2b-4f3d-970d-887da14720a6.png)
+
 <h1 align="center">Hi 👋, I'm Swapnil Pant</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
