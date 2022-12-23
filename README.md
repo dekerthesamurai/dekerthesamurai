@@ -21,7 +21,7 @@
 <a href="https://kaggle.com/swapnilpant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swapnilpant" height="30" width="40" /></a>
 <a href="https://instagram.com/dekerthesamurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dekerthesamurai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/swapnil pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swapnil pant" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dekerthesamurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dekerthesamurai" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/dekerthesamurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dekerthesamurai" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
